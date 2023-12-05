@@ -3,7 +3,7 @@ Dupla:
 - Antonio Hamilton Gomes de Melo
 - Jossuel Rocha Mendes
 
-Nessa Atividade Implementados os Codigos disponibilizados com os Principios do Solid <br>
+Nessa Atividade Implementados os Codigos disponibilizados com os Principios do Solid: <br>
 1° Princípio da Responsabilidade Única (Single Responsibility Principle - SRP): S <br>
 2° Princípio Aberto/Fechado (Open/Closed Principle - OCP):                      O <br>
 3° Princípio de Substituição de Liskov (Liskov Substitution Principle - LSP):   L <br>
