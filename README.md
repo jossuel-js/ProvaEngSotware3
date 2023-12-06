@@ -13,4 +13,4 @@ Nessa Atividade Implementados os Codigos disponibilizados com os Principios do S
 #comment1:
 O projeto utilizado foi um projeto criado em 2022 na discipla de projeto integrador 2 (Project Recicle) , os codigos utilizados/modificados nessa atividade tiveram o consentimento dos membros do projeto (Ianara,PedroBaruch,JossuelMendes).<br>
 #coment2:
-Link do video : EM BREVE (05/12/2023)
+Link do video : https://drive.google.com/drive/folders/1jREsPz47rtVZbchAaTlWylHX9-NE1VjH?usp=sharing)https://drive.google.com/drive/folders/1jREsPz47rtVZbchAaTlWylHX9-NE1VjH?usp=sharing
